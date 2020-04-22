@@ -24,8 +24,8 @@ if not special illustrated. so `models` has basic models and attention modules. 
 
 You can Specific where the attention modules inserted in, **Default** is after each block/encoder/decoder.
 
-#### Basic model
-**3D UNet**:[paper](https://arxiv.org/pdf/1606.06650.pdf)|[reimplemented code](Coming soon)
+### Basic model
+**3D UNet**: [paper](https://arxiv.org/pdf/1606.06650.pdf)|[reimplemented code: Coming Soon]()
 
 
 
