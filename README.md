@@ -21,11 +21,10 @@ if not special illustrated. so `models` has basic models and attention modules. 
 ```
 --basic model ResNet --attention module SE 
 --basic model 3D UNet --attention module AG
+... ....
 ```
 
-
-
-### Base module
+#### Basic model
 
 
 
