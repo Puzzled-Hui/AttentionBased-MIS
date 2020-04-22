@@ -2,11 +2,11 @@
 Medical Image Segmentation Based on Attention mechanism(Fine-Tune for natural image[semantic/instance] segmentation)
 This project is dedicated to 
 - Collecting and re-implementing different attention mechanisms,transforming them modular and portable.
-- Propose novel attention mechanisms tailed for 3D data Segmentation.
+- Proposing  novel attention mechanisms tailed for 3D data Segmentation.
 Main purpose is used in 3D Medical Image Segmentation.Fine-tune for Other CV task need attention easily meanwhile.
 
 ## dataset
-Base dataset and derived dataset...[Come Soon]
+Base dataset and derived dataset...[Coming Soon]()
 
 
 
