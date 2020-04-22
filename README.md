@@ -2,7 +2,7 @@
 Medical Image Segmentation Based on Attention mechanism(Fine-Tune for natural image[semantic/instance] segmentation).
 
 This project is dedicated to 
-- Collecting and re-implementing different attention mechanisms,transforming them modular and portable.
+- Collecting and re-implementing basic models and different attention mechanisms,transforming them modular and portable.
 - Proposing  novel attention mechanisms tailed for 3D data Segmentation.
 
 Main purpose is used in 3D Medical Image Segmentation.Fine-tune for Other CV task need attention easily meanwhile.
@@ -31,6 +31,20 @@ You can Specific where the attention modules inserted in, **Default** is after e
 **VNet**: [paper](https://arxiv.org/pdf/1606.04797.pdf)|[reimplemented code: Coming Soon]()      Model Name: `VNet`
 
 **DeepMedic**: [paper](https://www.sciencedirect.com/science/article/pii/S1361841516301839)|[reimplemented code: Coming Soon]()      Model Name: `DeepMedic`
+
+**H-DenseUNet**: [paper](https://arxiv.org/pdf/1709.07330.pdf)|[reimplemented code: Coming Soon]()      Model Name: `H-DenseUNet`
+
+**VoxResNet**: [paper](https://arxiv.org/pdf/1608.05895.pdf)|[reimplemented code: Coming Soon]()      Model Name: `VoxResNet`
+
+**U-Net**: [paper](https://arxiv.org/pdf/1505.04597.pdf)|[reimplemented code: Coming Soon]()      Model Name: `U-Net`
+
+**ResNet**: [paper](https://arxiv.org/pdf/1512.03385.pdf)|[code](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py)      Model Name: `ResNet`
+
+**FCN**: [paper](https://arxiv.org/pdf/1411.4038.pdf)|[reimplemented code: Coming Soon]()      Model Name: `FCN`
+
+**DeepLabV3+**: [paper](https://arxiv.org/pdf/1802.02611.pdf)|[reimplemented code: Coming Soon]()      Model Name: `DeepLabV3+`
+
+
 
 
 
