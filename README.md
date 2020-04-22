@@ -13,11 +13,14 @@ Base dataset and derived dataset...[Coming Soon]()
 
 
 ## models
-This section include base model(for segmentation or feature extraction) and different attention mechanisms.
+This section include basic model(for segmentation or feature extraction) and different attention mechanisms.Each attention mechanism can recalibrate multi-dim feature maps across their own functional domain.
 
-Each attention mechanism can recalibrate multi-dim feature maps across their own function domain.
+Most attention mechanisms can be modularized and integrated into sub feature maps(e.g. each encoder in UNet or each block in ResNet) 
+if not special illustrated. so `models` has basic models and attention modules. You can use this command to  combine your own concrete model, for example:
 
-Most attention mechanism can be modularized and integrated into sub feature maps(e.g. each encoder in UNet or each block in ResNet).
+`--basic model ResNet --attention module SE`
+
+`--basic model 3D UNet --attention module AG`
 
 
 
