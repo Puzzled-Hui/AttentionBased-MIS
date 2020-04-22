@@ -81,7 +81,7 @@ Classes of Visulization,Loss,Metric,Statistic Test...[Coming Soon]()
 
 
 
-##How to Train and Test?
+##  to Train and Test?
 `**Coming Soon**`
 
 
