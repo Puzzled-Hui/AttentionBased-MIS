@@ -2,10 +2,10 @@
 Medical Image Segmentation Based on Attention mechanism(Fine-Tune for natural image[semantic/instance] segmentation).
 
 This project is dedicated to 
-- Collecting and re-implementing basic models and different attention mechanisms,transforming them modular and portable.
+- Collecting and re-implementing basic models and different attention mechanisms, transforming them modular and portable.
 - Proposing  novel attention mechanisms tailed for 3D data Segmentation.
 
-Main purpose is used in 3D Medical Image Segmentation.Fine-tune for Other CV task need attention easily meanwhile.
+Main purpose is used in 3D Medical Image Segmentation. Fine-tune for Other CV tasks need attention is easily meanwhile.
 
 ## data
 Base dataset and derived dataset...[Coming Soon]()
@@ -71,5 +71,19 @@ You can Specific where the attention modules inserted in, **Default** is after e
 Above models and attention modules have been experimented and still many other models waiting for test. 
 This project will be update consistently and Welcome to advise good base model or attention modules.
  
+
+## options
+Base options and derived options...[Coming Soon]()
+
+
+## utils
+Classes of Visulization,Loss,Metric,Statistic Test...[Coming Soon]()
+
+
+
+##How to Train and Test?
+`**Coming Soon**`
+
+
 
 
