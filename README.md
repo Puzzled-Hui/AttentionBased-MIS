@@ -10,8 +10,6 @@ Main purpose is used in 3D Medical Image Segmentation.Fine-tune for Other CV tas
 ## data
 Base dataset and derived dataset...[Coming Soon]()
 
-
-
 ## models
 This section include basic model(for segmentation or feature extraction) and different attention mechanisms.Each attention mechanism can recalibrate multi-dim feature maps across their own functional domain.
 
@@ -21,10 +19,14 @@ if not special illustrated. so `models` has basic models and attention modules. 
 ```
 --basic model ResNet --attention module SE 
 --basic model 3D UNet --attention module AG
-... ....
+... ...
 ```
 
+You can Specific where the attention modules inserted in, **Default** is after each block/encoder/decoder.
+
 #### Basic model
+**3D UNet**:[paper](https://arxiv.org/pdf/1606.06650.pdf)|[reimplemented code](Coming soon)
+
 
 
 
