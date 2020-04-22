@@ -27,7 +27,9 @@ You can Specific where the attention modules inserted in, **Default** is after e
 
 ### Basic model
 **3D UNet**: [paper](https://arxiv.org/pdf/1606.06650.pdf)|[reimplemented code: Coming Soon]()      Model Name: `3D UNet`
+
 **VNet**: [paper](https://arxiv.org/pdf/1606.04797.pdf)|[reimplemented code: Coming Soon]()      Model Name: `VNet`
+
 **DeepMedic**: [paper](https://www.sciencedirect.com/science/article/pii/S1361841516301839)|[reimplemented code: Coming Soon]()      Model Name: `DeepMedic`
 
 
