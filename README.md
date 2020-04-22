@@ -18,9 +18,10 @@ This section include basic model(for segmentation or feature extraction) and dif
 Most attention mechanisms can be modularized and integrated into sub feature maps(e.g. each encoder in UNet or each block in ResNet) 
 if not special illustrated. so `models` has basic models and attention modules. You can use this command to  combine your own concrete model, for example:
 
-`--basic model ResNet --attention module SE`
-
-`--basic model 3D UNet --attention module AG`
+```
+--basic model ResNet --attention module SE 
+--basic model 3D UNet --attention module AG
+```
 
 
 
