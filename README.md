@@ -56,6 +56,8 @@ You can Specific where the attention modules inserted in, **Default** is after e
 
 **Dual Attention**: [paper](https://www.zpascal.net/cvpr2019/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf)|[reimplemented code: Coming Soon]()      Attention Module Name: `DN` [notes: Coming soon]()
 
+**Split Attention**:[paper](https://arxiv.org/pdf/2004.08955.pdf)|[reimplemented code: Coming Soon]()      Attention Module Name: `SpA` [notes: Coming soon]()
+
 **Project&Excitation**: [paper](https://arxiv.org/pdf/1906.04649.pdf)|[reimplemented code: Coming Soon]()      Attention Module Name: `PE` [notes: Coming soon]()
 
 **Attention U-Net**: [paper](https://arxiv.org/pdf/1804.03999.pdf)|[reimplemented code: Coming Soon]()      Attention Module Name: `AG` [notes: Coming soon]()
