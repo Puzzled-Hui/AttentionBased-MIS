@@ -34,7 +34,7 @@ can recalibrate multi-dim feature maps across their own functional domain.
 Most attention mechanisms can be modularized and integrated into any sub feature maps(e.g. each encoder in 3D UNet or each block in VNet) 
 if not special noted.
 
-All models and basic modules are in `/models`,We provide the pre-trained Models in [Model_zoo.md](https://github.com/Puzzled-Hui/AttentionBasedMIS/blob/master/Model_zoo.md):
+All models and basic modules are in `/models`,We provide the pre-trained Models in [Model_zoo.md](Model_zoo.md):
 
 Here,we integrate and provide brief description for basic segmentation models and attention modules used in our experiments. 
 Most of them have conducted and you can find pretrained models in **Model_zoo.md**. 
@@ -77,7 +77,7 @@ Some modules have not finished and we will keep conducting experiments and updat
 ## Train and Test 
 
 To fully understand the architecture of our projects, please take a reference to 
-- [Visualization of the projects arch](https://github.com/Puzzled-Hui/AttentionBasedMIS/blob/master/sources/project%20arch.PNG)
+- [Visualization of the projects arch](./sources/project%20arch.PNG)
 
 The Technical Report has clearly demonstrate the procedure of training and test, including loading data, pre-processing data,
 loading pretrained models,  training and testing models, saving model weights and other log info, etc.
