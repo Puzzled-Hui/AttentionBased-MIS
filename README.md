@@ -1,6 +1,7 @@
 # AttentionBased-MIS
 This repository provides the code for "Progressive Attention Module for Segmentation of Volumetric Medical Images". 
 Our work is accepted by [Medical Physics][paper_link].
+
 [paper_link]: https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15369
 
 ![PAM](./sources/PAM.png)
@@ -13,7 +14,7 @@ This project is dedicated to
 
 Main purpose is used in 3D Medical Image Segmentation. Fine-tune for Other CV tasks need attention is easily meanwhile.
 
-![image](https://github.com/Puzzled-Hui/AttentionBasedMIS/blob/master/sources/Figure1.pdf)
+![image](https://github.com/Puzzled-Hui/AttentionBasedMIS/blob/master/sources/BraTSSegmentation.gif)
 
 ## dataset
 We have used three medical image dataset,both 3D MRI format.You can use other formats like CT only need to constrcuct a concrete datatset loader
