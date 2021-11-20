@@ -14,7 +14,7 @@ This project is dedicated to
 
 Main purpose is used in 3D Medical Image Segmentation. Fine-tune for Other CV tasks need attention is easily meanwhile.
 
-![image](https://github.com/Puzzled-Hui/AttentionBasedMIS/blob/master/sources/BraTSSegmentation.gif)
+![image](./sources/BraTSSegmentation.gif)
 
 ## dataset
 We have used three medical image dataset,both 3D MRI format.You can use other formats like CT only need to constrcuct a concrete datatset loader
