@@ -13,3 +13,4 @@ tables
 tqdm
 scipy
 SimpleITK
+vedo
