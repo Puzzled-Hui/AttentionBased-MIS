@@ -124,4 +124,12 @@ pip install -r requirements.txt
 
 ## Citiation
 If you use AttentionBased-Medical-Image-Segmentation in your research or wish to refer to the baseline results published in the Model_zoo.
-Please cite this article as *doi: 10.1002/mp.15369*
+Please cite this article as the following BibTeX.
+```
+@article{zhangprogressive,
+  title={Progressive attention module for segmentation of volumetric medical images},
+  author={Zhang, Minghui and Pan, Hong and Zhu, Yaping and Gu, Yun},
+  journal={Medical Physics},
+  publisher={Wiley Online Library}
+}
+```
