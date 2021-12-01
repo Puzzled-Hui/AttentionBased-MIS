@@ -1,8 +1,5 @@
 # AttentionBased-MIS
 This repository provides the code for "Progressive Attention Module for Segmentation of Volumetric Medical Images". 
-Our work is accepted by [Medical Physics][paper_link].
-
-[paper_link]: https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15369
 
 ![PAM](./sources/PAM.png)
 
