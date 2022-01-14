@@ -1,5 +1,4 @@
 # AttentionBased-MIS
-This repository provides the code for "Progressive Attention Module for Segmentation of Volumetric Medical Images". 
 
 ![PAM](./sources/PAM.png)
 
@@ -47,13 +46,6 @@ Some modules have not finished and we will keep conducting experiments and updat
 | DeepMedic | [link](https://www.sciencedirect.com/science/article/pii/S1361841516301839) | DeepMedic |
 | VoxResNet | [link](https://arxiv.org/pdf/1608.05895.pdf) | VoxResNet |
 | H-DenseUNet | [link](https://arxiv.org/pdf/1709.07330.pdf) | H-DenseUNet |
-
-### Basic Segmentation models tailored for Natural Image Segmentation
-
-| Module | Paper | Name |
-| ------------- | ------------- | ------------- | 
-| FCN | [link](https://arxiv.org/pdf/1411.4038.pdf) | FCN |
-| DeepLabV3+ | [link](https://arxiv.org/pdf/1802.02611.pdf) | DeepLabV3+ |
 
 
 ### Attention Module
@@ -118,15 +110,3 @@ Some python libraries are also necessary, you can use the following command to s
 pip install -r requirements.txt
 ```
 
-
-## Citiation
-If you use AttentionBased-Medical-Image-Segmentation in your research or wish to refer to the baseline results published in the Model_zoo.
-Please cite this article as the following BibTeX.
-```
-@article{zhangprogressive,
-  title={Progressive attention module for segmentation of volumetric medical images},
-  author={Zhang, Minghui and Pan, Hong and Zhu, Yaping and Gu, Yun},
-  journal={Medical Physics},
-  publisher={Wiley Online Library}
-}
-```
