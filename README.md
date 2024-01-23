@@ -117,3 +117,17 @@ Some python libraries are also necessary, you can use the following command to s
 pip install -r requirements.txt
 ```
 
+## 📝 Citation
+If you find this repository or our paper useful, please consider citing our paper:
+```
+@article{zhang2022progressive,
+  title={Progressive attention module for segmentation of volumetric medical images},
+  author={Zhang, Minghui and Pan, Hong and Zhu, Yaping and Gu, Yun},
+  journal={Medical Physics},
+  volume={49},
+  number={1},
+  pages={295--308},
+  year={2022},
+  publisher={Wiley Online Library}
+}
+```
